@@ -2,7 +2,7 @@
 - 👀 I’m interested in JAVA,C#,Swift,Linux
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me darshitrakhasia@gmail.com
 
 <!---
 Darshit-parzival/Darshit-parzival is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
