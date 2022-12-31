@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darshit-parzival
-- 👀 I’m interested in JAVA,C#,Swift,Linux
+- 👀 I’m interested in JAVA,C#,Swift,JavaScript
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me darshitrakhasia@gmail.com
